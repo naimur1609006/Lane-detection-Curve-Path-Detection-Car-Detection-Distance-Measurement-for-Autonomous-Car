@@ -1,0 +1,5 @@
+Designed and implemented a comprehensive road scene understanding system aimed at enhancing self-driving car capabilities. The system includes advanced lane detection using edge detection and perspective transforms, enabling accurate identification of lane boundaries even in complex road conditions. Curvature detection algorithms estimate the road's turning angle, providing essential feedback for steering control. For real-time vehicle detection, the YOLOv5 model was integrated, allowing the system to detect and track surrounding vehicles with high accuracy and speed. The combined approach supports safe navigation, decision-making, and environment awareness in autonomous driving applications.
+
+
+<img width="1234" height="632" alt="Screenshot 2025-08-07 at 9 35 02 AM" src="https://github.com/user-attachments/assets/cf8eeae4-e2f2-45d9-87c8-672e62609a45" />
+<img width="1229" height="670" alt="Screenshot 2025-08-07 at 9 34 41 AM" src="https://github.com/user-attachments/assets/36a235c5-7958-4a4d-b2fa-4ecc4cfc4f11" />
